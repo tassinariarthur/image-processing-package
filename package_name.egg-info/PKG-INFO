@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: package_name
+Version: 0.0.1
+Summary: tentando fazer o desafio
+Home-page: https://github.com/tassinariarthur/desafios-dio
+Author: Arthur
+Author-email: arthur_tassinari@hotmail.com
+Description-Content-Type: text/markdown
+
 # package_name
 
 Description. 
